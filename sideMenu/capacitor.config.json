@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "myApp",
+  "appName": "sideMenu",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
